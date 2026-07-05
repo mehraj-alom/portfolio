@@ -1,1 +1,22 @@
 
+{
+  "initials": "MT",
+  "name": "Mehraj Alom Tapadar",
+  "tagline": "AI/ML Developer working on Multimodal AI, Computer Vision, Agentic AI and RAG Systems.",
+  "about": "I build computer vision pipelines and agentic AI workflows from research to deployment. My work includes deep learning, FastAPI, LangGraph, Retrieval-Augmented Generation, multimodal AI systems, and healthcare AI applications. I enjoy building production-ready AI products that solve real-world problems while continuously exploring modern AI technologies.",
+  "linkedin": "https://www.linkedin.com/in/mehraj0",
+  "github": "https://github.com/mehraj-alom",
+  "kaggle": "https://www.kaggle.com/",
+  "opensource": "I actively build open-source AI projects covering computer vision, generative AI, agentic systems, and backend development. I regularly publish code on GitHub and experiment with datasets and models on Kaggle.",
+  "interests": [
+    "Multimodal AI",
+    "Agentic AI",
+    "Computer Vision",
+    "Retrieval-Augmented Generation",
+    "Healthcare AI",
+    "Voice AI",
+    "LLM Fine-tuning",
+    "MLOps"
+  ],
+  "footer": "Built by Mehraj Alom Tapadar."
+}
