@@ -1,1 +1,13 @@
 
+{
+  "title": "TrafiSight — Traffic Surveillance Pipeline",
+  "repo": "https://github.com/mehraj-alom/trafisight",
+  "stack": "YOLOv8 · EasyOCR · ByteTrack · Python · SQLite",
+  "points": [
+    "Built a real-time traffic surveillance system for intelligent vehicle monitoring.",
+    "Integrated YOLOv8 for vehicle detection with ByteTrack for multi-object tracking.",
+    "Used EasyOCR to detect and recognize vehicle license plates.",
+    "Automatically logs vehicle information and traffic violations into a SQLite database.",
+    "Designed a modular pipeline that can be extended for speed estimation, ANPR and smart city applications."
+  ]
+}
