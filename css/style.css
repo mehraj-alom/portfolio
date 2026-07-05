@@ -1,1 +1,126 @@
 
+:root{
+  --paper:#FBF9F4;
+  --paper-dim:#F3F0E8;
+  --ink:#1A1A18;
+  --ink-soft:#4A4A44;
+  --rule:#D8D3C7;
+  --accent:#2F4538;
+  --accent-soft:#5C7A68;
+}
+
+*{
+  box-sizing:border-box;
+}
+
+html{
+  scroll-behavior:smooth;
+}
+
+body{
+  margin:0;
+  background:var(--paper);
+  color:var(--ink);
+  font-family:"Times New Roman",Georgia,"Liberation Serif",serif;
+  line-height:1.6;
+  -webkit-font-smoothing:antialiased;
+}
+
+.wrap{
+  max-width:680px;
+  margin:0 auto;
+  padding:0 28px;
+}
+
+header.hero{
+  padding:64px 0 40px;
+  border-bottom:1px solid var(--rule);
+}
+
+.avatar{
+  width:84px;
+  height:84px;
+  border-radius:50%;
+  background:var(--paper-dim);
+  border:1px solid var(--rule);
+  display:flex;
+  align-items:center;
+  justify-content:center;
+  font-family:Georgia,serif;
+  font-size:28px;
+  color:var(--ink-soft);
+  margin-bottom:24px;
+  letter-spacing:1px;
+}
+
+h1.name{
+  margin:0 0 6px;
+  font-size:2.1rem;
+  font-weight:400;
+  letter-spacing:.2px;
+}
+
+.tagline{
+  margin:0 0 22px;
+  font-size:1.02rem;
+  font-style:italic;
+  color:var(--ink-soft);
+}
+
+.links{
+  display:flex;
+  flex-wrap:wrap;
+  gap:18px;
+  font-family:ui-monospace,"SF Mono",Consolas,monospace;
+  font-size:.78rem;
+  letter-spacing:.02em;
+}
+
+.links a{
+  color:var(--accent);
+  text-decoration:none;
+  border-bottom:1px solid var(--accent-soft);
+  padding-bottom:1px;
+}
+
+.links a:hover{
+  color:var(--ink);
+  border-color:var(--ink);
+}
+
+.links .placeholder-tag{
+  margin-left:4px;
+  font-size:.68rem;
+  color:#A79E8C;
+}
+
+section{
+  padding:46px 0;
+  border-bottom:1px solid var(--rule);
+}
+
+section:last-of-type{
+  border-bottom:none;
+}
+
+.section-label{
+  margin-bottom:10px;
+  font-family:ui-monospace,"SF Mono",Consolas,monospace;
+  font-size:.72rem;
+  letter-spacing:.08em;
+  text-transform:uppercase;
+  color:var(--accent-soft);
+}
+
+h2.section-title{
+  margin:0 0 20px;
+  font-size:1.5rem;
+  font-weight:400;
+  letter-spacing:.2px;
+}
+
+p.lede{
+  max-width:58ch;
+  font-size:1.02rem;
+  color:var(--ink-soft);
+}
