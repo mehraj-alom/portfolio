@@ -1,1 +1,13 @@
 
+{
+  "title": "Dynamic Fashion Pricing Engine",
+  "repo": "https://github.com/mehraj-alom/dynamic-fashion-pricing",
+  "stack": "XGBoost · Random Forest · Scikit-learn · FastAPI · Pandas",
+  "points": [
+    "Built a machine learning system to predict optimal product prices using historical retail data.",
+    "Performed data cleaning, feature engineering and exploratory data analysis to improve model performance.",
+    "Trained and compared multiple regression models including Random Forest and XGBoost.",
+    "Deployed the trained model behind a FastAPI REST API for real-time price prediction.",
+    "Designed the project with a modular pipeline that supports future model retraining and deployment."
+  ]
+}
