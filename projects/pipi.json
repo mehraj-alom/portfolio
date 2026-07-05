@@ -1,1 +1,13 @@
 
+{
+  "title": "PIPI — Patient Intelligence & Processing Interface",
+  "repo": "https://github.com/mehraj-alom/PIPI",
+  "stack": "FastAPI · PyTorch · LangGraph · ElevenLabs · Docker · SQLite",
+  "points": [
+    "Unified healthcare platform combining skin disease analysis, document extraction, voice assistance and appointment scheduling.",
+    "Includes SKIN_TELLIGENT v2.0 with a 27-class skin disease classification pipeline.",
+    "Uses Grad-CAM++ for visual explainability of deep learning predictions.",
+    "Built with LangGraph to orchestrate AI agents for patient registration, doctor discovery and appointment booking.",
+    "Generates automated medical case summaries and sends PDF reports through SMTP after successful appointments."
+  ]
+}
