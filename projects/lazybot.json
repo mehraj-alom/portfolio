@@ -1,1 +1,13 @@
 
+{
+  "title": "LazyBot — Daily Accountability Companion",
+  "repo": "https://github.com/mehraj-alom/lazybot",
+  "stack": "Python · FastAPI · LLM APIs · Prompt Engineering",
+  "points": [
+    "Built an AI accountability assistant that helps users stay consistent with their daily goals.",
+    "Generates personalized reminders and motivational messages based on user progress.",
+    "Uses prompt engineering to produce meaningful, low-noise conversations instead of generic notifications.",
+    "Designed with a modular architecture to support future integrations such as calendars, task managers and voice assistants.",
+    "Focused on improving productivity, habit formation and long-term consistency through conversational AI."
+  ]
+}
