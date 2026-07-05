@@ -1,1 +1,27 @@
 
+[
+  {
+    "title": "LANGUAGES",
+    "value": "Python, JavaScript, SQL"
+  },
+  {
+    "title": "ML / DL",
+    "value": "PyTorch, scikit-learn, OpenCV, Grad-CAM, CNNs, YOLOv8"
+  },
+  {
+    "title": "GENERATIVE AI",
+    "value": "LangGraph, LangChain, RAG, OpenAI API, Google Gemini API, Multimodal Agents"
+  },
+  {
+    "title": "DATA",
+    "value": "NumPy, Pandas, Matplotlib, XGBoost, Random Forest, Regression, Classification"
+  },
+  {
+    "title": "BACKEND",
+    "value": "FastAPI, Docker, SQLite, REST APIs, SMTP"
+  },
+  {
+    "title": "TOOLS",
+    "value": "Git, GitHub, Kaggle, Linux, VS Code, Jupyter Notebook"
+  }
+]
