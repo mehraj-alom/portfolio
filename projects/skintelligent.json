@@ -1,1 +1,13 @@
 
+{
+  "title": "Skintelligent — Dermatology Screening Assistant",
+  "repo": "https://github.com/mehraj-alom/SKIN_DISEASE_CLASSIFIER",
+  "stack": "PyTorch · Computer Vision · FastAPI · OpenCV · Grad-CAM",
+  "points": [
+    "AI-powered dermatology screening system for early skin disease detection.",
+    "Trained deep learning models to classify multiple skin conditions from clinical images.",
+    "Applied Grad-CAM to highlight affected regions and improve prediction explainability.",
+    "Designed for fast, accessible screening and later evolved into the core vision engine of PIPI.",
+    "Built as a production-ready research project with a scalable FastAPI backend."
+  ]
+}
